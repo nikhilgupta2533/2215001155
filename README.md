@@ -33,12 +33,3 @@ This is my project for the Web Development course at GLA University. It's a soci
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## Made by Nikhil Gupta (2215001155)
-
-
-- Thanks to my professors for their guidance
-- Material UI documentation
-- React.js community
-- Stack Overflow (obviously! 😅)
-
----
-*This project was created as part of my coursework and is not intended for production use.* 
